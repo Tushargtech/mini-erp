@@ -11,7 +11,7 @@
 ## Features Implemented
 * [x] Project Directory Structure Initialization
 * [x] Local Environment Configuration
-* [ ] User Authentication & Role-based Access (Admin/User)
+* [x] User Authentication & Role-based Access (Admin/User)
 * [ ] Employee Management (CRUD)
 * [ ] Project Management (CRUD)
 * [ ] Task Management (CRUD)
